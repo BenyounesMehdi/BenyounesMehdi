@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benyounes Mehdi</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<video width="400" controls>
-  <source src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-</video>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benyounesmehdi&label=Profile%20views&color=0e75b6&style=flat" alt="benyounesmehdi" /> </p>
 
